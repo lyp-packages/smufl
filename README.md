@@ -2,6 +2,8 @@
 
 This package provides support for using SMuFL fonts in lilypond.
 
+The code here is based on code by [Nathan Ho](https://github.com/snappizz) in the [openLilyLib snippets repository](https://github.com/openlilylib/snippets/tree/master/custom-music-fonts/smufl).
+
 ## Installation
 
 Normally, this package will be installed directly only by developers of smufl fonts. To install using [lyp](https://github.com/noteflakes/lyp):
