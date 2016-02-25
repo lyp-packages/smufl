@@ -9,7 +9,7 @@ The code here is based on code by [Nathan Ho](https://github.com/snappizz) in th
 Normally, this package will be installed directly only by developers of smufl fonts. To install using [lyp](https://github.com/noteflakes/lyp):
 
 ```bash
-lyp install smufl
+$ lyp install smufl
 ```
 
 ## Usage
