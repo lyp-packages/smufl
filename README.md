@@ -1,4 +1,4 @@
-# lyp-smufl - SMuFL font support for lilypond
+# smufl: SMuFL font support for lilypond
 
 This package provides support for using SMuFL fonts in lilypond.
 
